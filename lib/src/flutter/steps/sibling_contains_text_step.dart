@@ -1,7 +1,7 @@
 import 'package:flutter_driver/flutter_driver.dart';
 import 'package:vos_flutter_gherkin/flutter_gherkin.dart';
 import 'package:vos_flutter_gherkin/src/flutter/flutter_world.dart';
-import 'package:gherkin/gherkin.dart';
+import 'package:vos_gherkin/gherkin.dart';
 
 /// Discovers a widget by its text within the same parent.
 /// For example, discovering X while only being aware of Y:

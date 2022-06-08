@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'package:gherkin/gherkin.dart';
+import 'package:vos_gherkin/gherkin.dart';
 import 'package:flutter_driver/flutter_driver.dart';
 
 enum _FlutterDriverMessageLogLevel { info, warning, error }

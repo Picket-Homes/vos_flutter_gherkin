@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
 import 'package:vos_flutter_gherkin/src/flutter/build_mode.dart';
-import 'package:gherkin/gherkin.dart';
+import 'package:vos_gherkin/gherkin.dart';
 
 class FlutterRunProcessHandler extends ProcessHandler {
   static const String FAIL_COLOR = '\u001b[33;31m'; // red

@@ -15,9 +15,10 @@ dependencies:
   flutter_driver:
     sdk: flutter
   meta: ">=1.1.6 <2.0.0"
-  gherkin:
+  vos_gherkin:
     git:
       url: git@github.com:Picket-Homes/vos_dart_gherkin.git
+      ref: 24bacd7faae4d7e7e041361f86fd46b212355017
 
 dev_dependencies:
   test:

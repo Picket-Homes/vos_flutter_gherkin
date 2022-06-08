@@ -1,4 +1,4 @@
-import 'package:gherkin/gherkin.dart';
+import 'package:vos_gherkin/gherkin.dart';
 
 typedef OnRunCode = Future<void> Function(Iterable parameters);
 

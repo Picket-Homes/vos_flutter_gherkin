@@ -1,4 +1,4 @@
-import 'package:gherkin/gherkin.dart';
+import 'package:vos_gherkin/gherkin.dart';
 
 class MockParameter extends CustomParameter<String> {
   MockParameter()

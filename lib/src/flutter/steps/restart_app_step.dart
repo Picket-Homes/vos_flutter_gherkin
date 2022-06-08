@@ -1,5 +1,5 @@
 import 'package:vos_flutter_gherkin/flutter_gherkin.dart';
-import 'package:gherkin/gherkin.dart';
+import 'package:vos_gherkin/gherkin.dart';
 
 StepDefinitionGeneric RestartAppStep() {
   return given<FlutterWorld>(
