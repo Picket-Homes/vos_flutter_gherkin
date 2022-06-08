@@ -1,4 +1,4 @@
-library flutter_gherkin;
+library vos_flutter_gherkin;
 
 // Flutter specific implementations
 export 'src/flutter/build_mode.dart';
