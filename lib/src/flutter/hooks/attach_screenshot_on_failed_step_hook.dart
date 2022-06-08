@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:gherkin/gherkin.dart';
+import 'package:vos_gherkin/gherkin.dart';
 import 'package:meta/meta.dart';
 import '../flutter_world.dart';
 

@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'package:vos_flutter_gherkin/src/flutter/flutter_run_process_handler.dart';
 import 'package:vos_flutter_gherkin/src/flutter/flutter_test_configuration.dart';
-import 'package:gherkin/gherkin.dart';
+import 'package:vos_gherkin/gherkin.dart';
 
 import '../flutter_world.dart';
 

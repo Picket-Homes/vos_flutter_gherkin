@@ -1,7 +1,7 @@
 import 'package:vos_flutter_gherkin/src/flutter/flutter_world.dart';
 import 'package:vos_flutter_gherkin/src/flutter/utils/driver_utils.dart';
 import 'package:flutter_driver/flutter_driver.dart';
-import 'package:gherkin/gherkin.dart';
+import 'package:vos_gherkin/gherkin.dart';
 
 /// Opens the applications main drawer
 ///
